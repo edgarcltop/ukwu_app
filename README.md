@@ -1,5 +1,4 @@
 # Ukwu - Bookfinder Website 
-![screenshot](./docs/imgs/rosetta.png)
 
 
 ### 🚀 Technologies used
